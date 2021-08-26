@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EggDelivery</string>
+    <string name="eggsellent">EggsEllent</string>
+    <string name="pault">PaulT Livraison</string>
+    <string name="order">Commander</string>
+    <string name="order_page">Page de commande</string>
+    <string name="enter_tel">Entrez votre numero de telephone</string>
+    <string name="enter_your_email">Entrez votre Email</string>
+    <string name="enter_your_name">Entrez votre Name</string>
+    <string name="select_language">Choisir la langue</string>
+    <string name="markets">Marches</string>
+    <string name="rate_us">Evaluez nous</string>
+    <string name="login">Connexion</string>
+    <string name="profile">Profil</string>
+    <string name="logout">Se deconnector</string>
+    <string name="eggsy">EggsEllent</string>
+    <string name="all_your_eggs_in_one_basket">Tous vos oeufs dans le meme panier</string>
+    <string name="logo">Logo</string>
+</resources>

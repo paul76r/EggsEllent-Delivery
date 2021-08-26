@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EggDelivery</string>
+    <string name="eggsellent">EggsEllent</string>
+    <string name="pault">PaulT Delivery</string>
+    <string name="order">Order</string>
+    <string name="order_page">Order Page</string>
+    <string name="enter_tel">Enter Phone Number</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="select_language">Select Language</string>
+    <string name="markets">Markets</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="eggsy">EggsEllent</string>
+    <string name="all_your_eggs_in_one_basket">All Your eggs In One Basket</string>
+    <string name="logo">Logo</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="logi">LogIn</string>
+    <string name="signup">SignUp</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="signu">SIGNUP</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="image">IMAGE</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">tawsil albayd</string>
+    <string name="eggsellent">EggsEllent</string>
+    <string name="pault">PaulT tawsil</string>
+    <string name="order">tartib</string>
+    <string name="order_page">safhat altalab</string>
+    <string name="enter_tel">adkhul raqm alhatif</string>
+    <string name="enter_your_email">\'adkhul baridak al\'iiliktirunia</string>
+    <string name="enter_your_name">adkhul asmak</string>
+    <string name="select_language">akhtar allugha</string>
+    <string name="markets">al\'aswaq</string>
+    <string name="rate_us">qiamuna</string>
+    <string name="login">tasjil aldukhul</string>
+    <string name="profile">almilafu alshakhsiu</string>
+    <string name="logout">tasjil khuruj</string>
+    <string name="eggsy">EggsEllent</string>
+    <string name="all_your_eggs_in_one_basket">kulu baydik fi salat wahida</string>
+    <string name="logo">sajal</string>
+
+</resources>
